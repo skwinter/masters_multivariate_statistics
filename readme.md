@@ -1,1 +1,1 @@
-This is a final project done on investigating the Association Between Socioeconomic Factors and Iron Deficiency Anemia for my multivariate statistics course in my Masters of Science for Biomedical Antrhopology.
+This is a final project done on investigating the Association Between Socioeconomic Factors and Iron Deficiency Anemia for my multivariate statistics course in my Masters of Science in Biomedical Antrhopology.
